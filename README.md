@@ -1,6 +1,6 @@
-For a README, I'd recommend a more professional and open-source-friendly version like this:
+# Lumberjack Bot cheat 
 
-# Lumberjack Bot
+@gamee
 
 ## 1. Overview
 
